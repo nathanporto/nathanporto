@@ -21,8 +21,3 @@
    
 Sou um programador iniciante, apaixonado por tecnologia e sempre buscando aprender coisas novas. Aqui você vai encontrar projetos simples que estou desenvolvendo enquanto aprimoro minhas habilidades em programação. Fique à vontade para explorar, sugerir melhorias e colaborar!
 
-### Entre em Contato!
-
-- [Email](nathanporto738@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/nathan-porto-20a542319//)
-- [Portfolio](www.nathanporto.shop)
