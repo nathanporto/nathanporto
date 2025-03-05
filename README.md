@@ -4,7 +4,7 @@
 <p align="center">👋 Bem vindo sou Nathan Porto</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanporto&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="141" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavolenni&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="141" alt="languages graph"  />
 </div>
 
 <br clear="both">
