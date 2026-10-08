@@ -6,19 +6,27 @@
 
 <br/>
 
-```ts
-const nathan = {
-  role: "Full Stack Developer",
-  location: "Guarulhos, SP 🇧🇷",
-  currently: "Construindo integrações com BigID @ Afetech",
-  stack: {
-    backend:  ["PHP", "Laravel", "Node.js"],
-    frontend: ["Vue.js", "React", "TypeScript"],
-    data:     ["PostgreSQL", "MySQL", "Redis"],
-    devops:   ["Docker"],
-  },
-  motto: "Transformo problemas em sistemas que funcionam",
-};
+```php
+<?php
+
+class Nathan extends Developer
+{
+    public string $role      = 'Full Stack Developer';
+    public string $location  = 'Guarulhos, SP 🇧🇷';
+    public string $currently = 'Construindo integrações com BigID @ Afetech';
+
+    public array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'Node.js'],
+        'frontend' => ['Vue.js', 'React', 'TypeScript'],
+        'data'     => ['PostgreSQL', 'MySQL', 'Redis'],
+        'devops'   => ['Docker'],
+    ];
+
+    public function motto(): string
+    {
+        return 'Transformo problemas em sistemas que funcionam';
+    }
+}
 ```
 
 <div align="center">
@@ -35,13 +43,6 @@ const nathan = {
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanporto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com?user=nathanporto&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanporto/nathanporto/output/github-snake-dark.svg" />
-  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/nathanporto/nathanporto/output/github-snake.svg" />
-</picture>
 
 <br/><br/>
 
